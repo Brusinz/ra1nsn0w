@@ -21,6 +21,6 @@ make
 
 make install
 
-if wikiproxy can't be reaced you can try to save the bundle of you IPSW using inferius
+if theiphonewiki can't be reaced you can try to save the bundle of you IPSW using inferius
 
 and add them to localhost using docker
