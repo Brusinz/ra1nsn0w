@@ -1,7 +1,9 @@
 # ra1nsn0w
 A little release of ra1nsn0w doed by me :)
 
-install dependencies like futurerestore
+remember to do chmod +x to make the command executable
+
+to build install dependencies like futurerestore
 
 to install autoconf automake libtool use brew
 
@@ -20,7 +22,3 @@ run ./autogen.sh
 make
 
 make install
-
-if theiphonewiki can't be reaced you can try to save the bundle of you IPSW using inferius
-
-and add them to localhost using docker
