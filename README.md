@@ -11,7 +11,7 @@ cd libipatcher
 
 git submodule add https://github.com/tihmstar/jssy.git 
 
-add xpwn/includes file in include and add libcommon.a and libxpwn.a to usr/local/lib 
+add xpwn/includes file in libipatcher/include and add libcommon.a and libxpwn.a to usr/local/lib 
 
 git submodule update --init --recursive 
 
